@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋, I'm Hai My Bui Huynh
+# Hi there 👋, I'm Hai My 
 
 ### I'm currently a sophomore at University of Greenwich Vietnam - HCM campus
 
