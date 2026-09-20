@@ -1,8 +1,7 @@
 # Hi 👋, I'm Hai My 🥹
 
 ### I'm currently a sophomore at University of Greenwich Vietnam - HCM campus
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Macy2107&label=Profile views&color=0e75b6&style=flat" alt="Macy2107" /> </p>
+### My desired future career path is working as a Backend Developer, especially in fintech and blockchain
 
 - 🔭 I'm currently working on **Spring boot REST APIs projects**
 
