@@ -1,7 +1,6 @@
-# Hi 👋, I'm Hai My 🥹
+# Hi 👋, I'm Hai My :3
 
 ### I'm currently a sophomore at University of Greenwich Vietnam - HCM campus
-### My desired future career path is working as a Backend Developer, especially in fintech and blockchain
 
 - 🔭 I'm currently working on **Spring boot REST APIs projects**
 
